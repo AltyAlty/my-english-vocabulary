@@ -5808,6 +5808,8 @@ to make do (with something) - использовать то, что есть, х
 
 a ratio of something to something - соотношение чего-то к чему-то
 
+in place of someone or something - вместо кого-то чего-то
+
 an optimax - оптимальный максимум
 
 an overhead - накладные расходы
