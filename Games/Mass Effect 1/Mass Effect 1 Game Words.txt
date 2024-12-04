@@ -2683,3 +2683,13 @@ a wax - воск
 a blowtorch / a blowlamp - паяльная лампа
 
 to attain something - достичь или преуспеть в получении чего-то, что трудно сделать или получить
+
+ambient - существующий в окружающей среде; окружающий
+
+to induce something - заставить что-то произойти; вызывать
+
+a fission / a nuclear fission - деление ядра
+
+a fusion / a nuclear fusion - термоядерная реакция
+
+a neutron moderator - замедление нейтронов или замедлитель нейтронов
