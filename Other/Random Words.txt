@@ -408,3 +408,5 @@ a defenestration - дефенестрация
 a lethologica - неспособность вспомнить нужное слово
 
 an apophenia - апофения
+
+a zephyr  - легкий ветерок
