@@ -433,3 +433,5 @@ a panacea - панацея
 a tatterdemalion - человек, одетый в рваную одежду; оборванец
 
 a nepenthe - непенф
+
+a glossophobia - логофобия
