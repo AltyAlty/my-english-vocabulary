@@ -445,3 +445,5 @@ a jouska - гипотетический разговор, который вы н
 a fenestration - фенестрация
 
 a tracery - масверк
+
+an alcazar - алькасар
