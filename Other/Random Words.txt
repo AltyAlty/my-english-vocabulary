@@ -447,3 +447,5 @@ a fenestration - фенестрация
 a tracery - масверк
 
 an alcazar - алькасар
+
+a frisson - фриссон
